@@ -82,7 +82,7 @@ nav form{
 .serachField{
     font-size: 1.1 rem;
     outline: none;
-    color: black;
+    color: red;
     background-color: transparent;
     padding: 1rem 0;
     border: none;
